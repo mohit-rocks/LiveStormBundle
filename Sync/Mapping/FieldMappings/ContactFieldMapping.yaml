@@ -1,0 +1,42 @@
+---
+-
+  displayName: "Email Address"
+  name: email
+  type: text
+  required: true
+-
+  displayName: "First Name"
+  name: first_name
+  type: text
+-
+  displayName: "Last Name"
+  name: last_name
+  type: text
+-
+  displayName: "Job Title"
+  name: job_title
+  type: text
+-
+  displayName: "Phone"
+  name: phone
+  type: text
+-
+  displayName: "Website"
+  name: website
+  type: text
+-
+  displayName: "City"
+  name: city
+  type: text
+-
+  displayName: "Twitter"
+  name: twitter
+  type: text
+-
+  displayName: "LinkedIn"
+  name: linkedin
+  type: url
+-
+  displayName: "Company"
+  name: company
+  type: text
